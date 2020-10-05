@@ -7,23 +7,37 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8A4DD3B5252BDE2E004FD4BB /* 08.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 8A4DD3B4252BDE2E004FD4BB /* 08.usdz */; };
 		8A6DDC74252BC69E00E7D98D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A6DDC73252BC69E00E7D98D /* AppDelegate.swift */; };
 		8A6DDC76252BC69E00E7D98D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A6DDC75252BC69E00E7D98D /* ViewController.swift */; };
-		8A6DDC78252BC69E00E7D98D /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 8A6DDC77252BC69E00E7D98D /* Experience.rcproject */; };
 		8A6DDC7B252BC69E00E7D98D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A6DDC79252BC69E00E7D98D /* Main.storyboard */; };
 		8A6DDC7D252BC69F00E7D98D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8A6DDC7C252BC69F00E7D98D /* Assets.xcassets */; };
 		8A6DDC80252BC69F00E7D98D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A6DDC7E252BC69F00E7D98D /* LaunchScreen.storyboard */; };
+		8A6DDC93252BD43700E7D98D /* 02.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 8A6DDC8B252BD43300E7D98D /* 02.usdz */; };
+		8A6DDC94252BD43700E7D98D /* 01.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 8A6DDC8C252BD43400E7D98D /* 01.usdz */; };
+		8A6DDC95252BD43700E7D98D /* 03.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 8A6DDC8D252BD43400E7D98D /* 03.usdz */; };
+		8A6DDC96252BD43700E7D98D /* 04.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 8A6DDC8E252BD43400E7D98D /* 04.usdz */; };
+		8A6DDC98252BD43700E7D98D /* 05.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 8A6DDC90252BD43500E7D98D /* 05.usdz */; };
+		8A6DDC99252BD43700E7D98D /* 06.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 8A6DDC91252BD43600E7D98D /* 06.usdz */; };
+		8A6DDC9A252BD43700E7D98D /* 07.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 8A6DDC92252BD43700E7D98D /* 07.usdz */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8A4DD3B4252BDE2E004FD4BB /* 08.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 08.usdz; sourceTree = "<group>"; };
 		8A6DDC70252BC69E00E7D98D /* ARDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ARDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8A6DDC73252BC69E00E7D98D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8A6DDC75252BC69E00E7D98D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		8A6DDC77252BC69E00E7D98D /* Experience.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = Experience.rcproject; sourceTree = "<group>"; };
 		8A6DDC7A252BC69E00E7D98D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8A6DDC7C252BC69F00E7D98D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8A6DDC7F252BC69F00E7D98D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8A6DDC81252BC69F00E7D98D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8A6DDC8B252BD43300E7D98D /* 02.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 02.usdz; sourceTree = "<group>"; };
+		8A6DDC8C252BD43400E7D98D /* 01.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 01.usdz; sourceTree = "<group>"; };
+		8A6DDC8D252BD43400E7D98D /* 03.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 03.usdz; sourceTree = "<group>"; };
+		8A6DDC8E252BD43400E7D98D /* 04.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 04.usdz; sourceTree = "<group>"; };
+		8A6DDC90252BD43500E7D98D /* 05.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 05.usdz; sourceTree = "<group>"; };
+		8A6DDC91252BD43600E7D98D /* 06.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 06.usdz; sourceTree = "<group>"; };
+		8A6DDC92252BD43700E7D98D /* 07.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 07.usdz; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,11 +72,18 @@
 			children = (
 				8A6DDC73252BC69E00E7D98D /* AppDelegate.swift */,
 				8A6DDC75252BC69E00E7D98D /* ViewController.swift */,
-				8A6DDC77252BC69E00E7D98D /* Experience.rcproject */,
 				8A6DDC79252BC69E00E7D98D /* Main.storyboard */,
 				8A6DDC7C252BC69F00E7D98D /* Assets.xcassets */,
 				8A6DDC7E252BC69F00E7D98D /* LaunchScreen.storyboard */,
 				8A6DDC81252BC69F00E7D98D /* Info.plist */,
+				8A6DDC8C252BD43400E7D98D /* 01.usdz */,
+				8A6DDC8B252BD43300E7D98D /* 02.usdz */,
+				8A6DDC8D252BD43400E7D98D /* 03.usdz */,
+				8A6DDC8E252BD43400E7D98D /* 04.usdz */,
+				8A6DDC90252BD43500E7D98D /* 05.usdz */,
+				8A6DDC91252BD43600E7D98D /* 06.usdz */,
+				8A6DDC92252BD43700E7D98D /* 07.usdz */,
+				8A4DD3B4252BDE2E004FD4BB /* 08.usdz */,
 			);
 			path = ARDemo;
 			sourceTree = "<group>";
@@ -124,9 +145,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8A6DDC95252BD43700E7D98D /* 03.usdz in Resources */,
 				8A6DDC80252BC69F00E7D98D /* LaunchScreen.storyboard in Resources */,
+				8A6DDC96252BD43700E7D98D /* 04.usdz in Resources */,
+				8A4DD3B5252BDE2E004FD4BB /* 08.usdz in Resources */,
+				8A6DDC94252BD43700E7D98D /* 01.usdz in Resources */,
+				8A6DDC9A252BD43700E7D98D /* 07.usdz in Resources */,
 				8A6DDC7D252BC69F00E7D98D /* Assets.xcassets in Resources */,
+				8A6DDC99252BD43700E7D98D /* 06.usdz in Resources */,
 				8A6DDC7B252BC69E00E7D98D /* Main.storyboard in Resources */,
+				8A6DDC93252BD43700E7D98D /* 02.usdz in Resources */,
+				8A6DDC98252BD43700E7D98D /* 05.usdz in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,7 +168,6 @@
 			files = (
 				8A6DDC76252BC69E00E7D98D /* ViewController.swift in Sources */,
 				8A6DDC74252BC69E00E7D98D /* AppDelegate.swift in Sources */,
-				8A6DDC78252BC69E00E7D98D /* Experience.rcproject in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -289,6 +317,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = WH34DMFD48;
 				INFOPLIST_FILE = ARDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -308,6 +337,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = WH34DMFD48;
 				INFOPLIST_FILE = ARDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
